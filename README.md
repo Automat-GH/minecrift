@@ -6,6 +6,7 @@ This is a modified version of the Minecrift VR mod that focuses on the Vive and 
 
 This mod uses phr00t's JOpenVR wrapper from his JMonkeyVR project. Be sure to check that out! Thanks also go to StellaArtois, Mabrowning and everyone else who worked on the Minecrift mod.
 
+Also take a look at [jrbudda's fork](https://github.com/jrbudda/minecrift/releases) of this project, which adds a number of improvements and is being worked on a lot at the moment! You can also find a pre-built installer there.
 
 Controls
 ========
